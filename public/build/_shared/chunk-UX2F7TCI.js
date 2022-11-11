@@ -1,0 +1,1 @@
+var e=[{name:"github",website:"https://github.com/diogoparente"},{name:"linkedin",website:"https://www.linkedin.com/in/diogoparentedev/"},{name:"mail",website:"mailto:hello@diogocodes.com"}],i=e;export{i as a};

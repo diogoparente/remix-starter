@@ -1,0 +1,12 @@
+@mixin grow-item {
+  transition-duration: 1s;
+  transform: scale(1.1);
+}
+
+@mixin backlight {
+  box-shadow: 0 0 1.2rem var(--colors-c2-light) !important;
+}
+
+@mixin dark-backlight {
+  box-shadow: 0 0 1.2rem var(--colors-c5-light) !important;
+}

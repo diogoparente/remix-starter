@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/data/blobs.ts"],
+  "sourcesContent": ["import blob_1 from \"../../assets/blobs/blob_1.svg\";\n\nconst blobs = {\n  blob_1,\n};\n\nexport default blobs;\n"],
+  "mappings": ";;;;AAEA,IAAM,QAAQ;AAAA,EACZ;AACF;AAEA,IAAO,gBAAQ;",
+  "names": []
+}

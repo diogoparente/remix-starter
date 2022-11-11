@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/data/social-icons.ts"],
+  "sourcesContent": ["const icons = [\n  {\n    name: \"github\",\n    website: \"https://github.com/diogoparente\",\n  },\n  {\n    name: \"linkedin\",\n    website: \"https://www.linkedin.com/in/diogoparentedev/\",\n  },\n  {\n    name: \"mail\",\n    website: \"mailto:hello@diogocodes.com\",\n  },\n];\n\nexport default icons;\n"],
+  "mappings": ";AAAA,IAAM,QAAQ;AAAA,EACZ;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AACF;AAEA,IAAO,uBAAQ;",
+  "names": []
+}

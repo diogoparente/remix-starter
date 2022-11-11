@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/data/company-icons.ts"],
+  "sourcesContent": ["const icons = [\n  {\n    name: \"cazoo\",\n    website: \"https://www.cazoo.co.uk\",\n  },\n  {\n    name: \"talkdesk\",\n    website: \"https://www.talkdesk.com/\",\n  },\n  {\n    name: \"nttdata\",\n    website: \"https://www.nttdata.com/\",\n  },\n];\n\nexport default icons;\n"],
+  "mappings": ";AAAA,IAAM,QAAQ;AAAA,EACZ;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AACF;AAEA,IAAO,wBAAQ;",
+  "names": []
+}

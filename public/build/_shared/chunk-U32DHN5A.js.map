@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/data/skill-icons.ts"],
+  "sourcesContent": ["const icons = [\n  {\n    name: \"react\",\n    website: \"https://reactjs.org\",\n  },\n  {\n    name: \"typescript\",\n    website: \"https://www.typescriptlang.org\",\n  },\n  {\n    name: \"nextjs\",\n    website: \"https://www.nextjs.org\",\n  },\n  {\n    name: \"remix\",\n    website: \"https://remix.run\",\n  },\n  {\n    name: \"nodejs\",\n    website: \"https://www.nodejs.org\",\n  },\n  {\n    name: \"redux\",\n    website: \"https://redux.js.org\",\n  },\n  {\n    name: \"sass\",\n    website: \"https://sass-lang.com\",\n  },\n  {\n    name: \"rtl\",\n    website: \"https://testing-library.com/docs/react-testing-library/intro/\",\n  },\n  {\n    name: \"styled\",\n    website: \"https://styled-components.com\",\n  },\n  {\n    name: \"jest\",\n    website: \"https://jestjs.io\",\n  },\n];\n\nexport default icons;\n"],
+  "mappings": ";AAAA,IAAM,QAAQ;AAAA,EACZ;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AAAA,EACA;AAAA,IACE,MAAM;AAAA,IACN,SAAS;AAAA,EACX;AACF;AAEA,IAAO,sBAAQ;",
+  "names": []
+}

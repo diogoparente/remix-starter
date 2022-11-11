@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/data/index.ts"],
+  "sourcesContent": ["import blobs from \"./blobs\";\nimport skillIcons from \"./skill-icons\";\nimport socialIcons from \"./social-icons\";\nimport companyIcons from \"./company-icons\";\nimport photos from \"./photos\";\n\nexport default { companyIcons, skillIcons, socialIcons, photos, blobs };\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;AAMA,IAAO,eAAQ,EAAE,qCAAc,iCAAY,mCAAa,wBAAQ,qBAAM;",
+  "names": []
+}

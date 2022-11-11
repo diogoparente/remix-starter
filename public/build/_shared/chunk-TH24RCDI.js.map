@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/data/photos.ts"],
+  "sourcesContent": ["import standing from \"../../assets/photos/standing.svg\";\n\nconst photos = {\n  standing,\n};\n\nexport default photos;\n"],
+  "mappings": ";;;;AAEA,IAAM,SAAS;AAAA,EACb;AACF;AAEA,IAAO,iBAAQ;",
+  "names": []
+}

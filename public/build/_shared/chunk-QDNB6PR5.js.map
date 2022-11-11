@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/data/index.ts"],
+  "sourcesContent": ["export default {};\n"],
+  "mappings": ";AAAA,IAAO,eAAQ,CAAC;",
+  "names": []
+}
